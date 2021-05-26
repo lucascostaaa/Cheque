@@ -44,6 +44,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cheque.cs" />
+    <Compile Include="Controller\ControladorBase.cs" />
+    <Compile Include="Controller\ControladorCentavos.cs" />
+    <Compile Include="Controller\ControladorCentena.cs" />
+    <Compile Include="Controller\ControladorConversor.cs" />
+    <Compile Include="Controller\ControladorDezena.cs" />
+    <Compile Include="Controller\ControladorUnidade.cs" />
+    <Compile Include="Model\Conversor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

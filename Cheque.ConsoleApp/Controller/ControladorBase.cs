@@ -1,18 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Cheque.ConsoleApp
+namespace ChequePorExtenso.Controller
 {
-    public class ChequeValorExtenso
+    public  class ControladorBase
     {
 
-      
+
     }
 }
-
-
-

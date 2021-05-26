@@ -5,14 +5,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Cheque.ConsoleApp
+namespace ChequePorExtenso.Controller
 {
-    public class ChequeValorExtenso
+    public class ControladorConversor
     {
+        
 
-      
+
+        
     }
 }
-
-
-
